@@ -29,7 +29,7 @@
 
 
 
-
+            int nu1m = 0;
         }
 
         //static void Add()
