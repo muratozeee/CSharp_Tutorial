@@ -21,7 +21,7 @@ namespace Methods
             Product product2 = new Product();
 
 
-            product1.Name= "Apple";
+            product1.Name= "Banana";
             product1.Price= 15;
             product1.Description = "Apple of Amasya";
 
@@ -52,7 +52,8 @@ namespace Methods
 
             basketManager.Add2("Pear","Green Pear",12,10);
             basketManager.Add2("Apple", "Green Aplle", 12,9);
-            basketManager.Add2("Watermelon", "Watermelon of Adna", 12,8);
+            basketManager.Add2("Watermelon", "Watermelon of Adana", 12,8);
+
 
 
 

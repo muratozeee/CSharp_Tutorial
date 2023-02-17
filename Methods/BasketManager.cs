@@ -18,7 +18,7 @@ namespace Methods
  }
         public void Add2(String productName,String information,double price,int stockNum) {
 
-            Console.WriteLine("Congralations we added the basket! " + productName);
+            Console.WriteLine("Congralations we added the baskett! " + productName);
         }
 
     }
