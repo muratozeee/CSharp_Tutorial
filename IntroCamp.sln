@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{4F0B505A-A72D-419D-B6A0-359BEAF813FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{FCA7858D-3A2A-4564-B4EA-AC14F541DE49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_Cs", "Methods\Methods_Cs.csproj", "{FCA7858D-3A2A-4564-B4EA-AC14F541DE49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculus", "Calculus\Calculus.csproj", "{92434584-1424-43F6-9F2A-537D90CE07E0}"
 EndProject
