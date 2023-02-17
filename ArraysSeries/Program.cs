@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            String[] students = {"Murat","Suat","Faruk"};
+            students[0] = "Murat";
+            students[1] = "Suat";
+            students[2] = "Faruk";
+
+            foreach (String studentss in students)
+            {
+                Console.WriteLine("Students Name= "+studentss);
+
+
+            }
+
 
         }
     }
