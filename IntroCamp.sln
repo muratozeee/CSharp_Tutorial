@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CapsulationMethodExam", "Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods22VideoHw2", "Methods22VideoHw2\Methods22VideoHw2.csproj", "{D62EB6AE-494C-465A-A7B9-E84B42A98953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysSeries", "ArraysSeries\ArraysSeries.csproj", "{8833339D-B214-4322-905D-AA2D90BB4A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysSeries", "ArraysSeries\ArraysSeries.csproj", "{8833339D-B214-4322-905D-AA2D90BB4A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{81AF088D-01BF-49FA-8F00-254A00D4C18C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{8833339D-B214-4322-905D-AA2D90BB4A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8833339D-B214-4322-905D-AA2D90BB4A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8833339D-B214-4322-905D-AA2D90BB4A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AF088D-01BF-49FA-8F00-254A00D4C18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AF088D-01BF-49FA-8F00-254A00D4C18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AF088D-01BF-49FA-8F00-254A00D4C18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AF088D-01BF-49FA-8F00-254A00D4C18C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
