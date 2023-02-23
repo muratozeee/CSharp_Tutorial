@@ -10,7 +10,7 @@ namespace InheritanceExample
     {
         public string animalName;
         public string animalGender;
-        public string animalColor;
+        public string animalColor;                //we can control method and properties manager or service.
         public int animalAge;
         public void AnimalInformation()
         {

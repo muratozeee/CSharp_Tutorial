@@ -8,7 +8,7 @@ namespace InheritanceExample
 {
     public class Cat:AnimalManager
     {
-        //I  am  not writing nothing
+        //I  am  not writing nothing just for using inheritance.
 
 
     }

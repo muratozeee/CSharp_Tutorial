@@ -47,6 +47,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListMethod", "Inheritance\L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceExample", "İntheritance_Meaning_Example\InheritanceExample.csproj", "{45B52251-2DC4-4CC9-9AC2-A8FA4D8C6D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Types", "Dictionary\Dictionary_Types.csproj", "{FBFD427A-A65C-495E-BEAF-83742A921773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Example", "Dictionary_Example\Dictionary_Example.csproj", "{D47A2FCA-8407-4E85-9526-C9E2A27737D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{45B52251-2DC4-4CC9-9AC2-A8FA4D8C6D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B52251-2DC4-4CC9-9AC2-A8FA4D8C6D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B52251-2DC4-4CC9-9AC2-A8FA4D8C6D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFD427A-A65C-495E-BEAF-83742A921773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFD427A-A65C-495E-BEAF-83742A921773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFD427A-A65C-495E-BEAF-83742A921773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFD427A-A65C-495E-BEAF-83742A921773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47A2FCA-8407-4E85-9526-C9E2A27737D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47A2FCA-8407-4E85-9526-C9E2A27737D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47A2FCA-8407-4E85-9526-C9E2A27737D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47A2FCA-8407-4E85-9526-C9E2A27737D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
