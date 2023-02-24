@@ -7,7 +7,7 @@ namespace Exampless
         static void Main(string[] args)
         {
         
-            ListManager<string> teachers= new ListManager<string>();
+            GenericManager<string> teachers= new GenericManager<string>();
 
             teachers.Add("Gökhan");
             teachers.Add("Atabak");
@@ -16,6 +16,8 @@ namespace Exampless
             {
                 Console.WriteLine(item);
             }
+            Console.WriteLine(teachers.Length);
+
         }
     }
     

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Exampless
 {
-    internal class ListManager<T>
+     class GenericManager<T>
     {
         T[] teachername;
         T[] tempArray;
-        public ListManager(){
+        public GenericManager(){
             teachername = new T[0];
         }
         public void Add(T item)
