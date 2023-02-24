@@ -16,11 +16,11 @@ namespace Dictionary_Hw_Example
             
 
             foreach (var id in dictionaryManager.keyss)  //we used the foreach to show display.
-            {//we show id as a keys
+            {//we show id as a keys in display.
                 Console.WriteLine("Student ID :{0} ",id);
             }
             foreach (var name in dictionaryManager.namess)
-            {//we show name as a value
+            {//we show names as a value in display.
                 Console.WriteLine("Student Name :{0}",name);
             }
             //we show the display about key and name length of memory.
