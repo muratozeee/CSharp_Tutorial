@@ -10,7 +10,7 @@ namespace OOP3
     {
         public void Calculate()
         {
-            Console.WriteLine("Small Business Credit was Calculated..!");
+            Console.WriteLine("Small Business Credit was Calculated paying plan..!");
         }
 
         public void Doitsomething()

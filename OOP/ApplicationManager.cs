@@ -22,7 +22,7 @@ namespace OOP3
                 loggerService.Log();
             }
         }
-
+ 
         public void DoCreditFirstInformation(List<ICreditManager> credits) //we want to all credits type will use for something.
         {
 

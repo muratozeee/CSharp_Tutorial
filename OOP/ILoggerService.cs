@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    interface ILoggerService
+    interface ILoggerService 
     {
           void Log();
 
