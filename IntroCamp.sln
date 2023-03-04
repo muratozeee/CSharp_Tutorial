@@ -75,6 +75,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesExamples2", "Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{F2D12650-1F5D-4554-91E8-3E93BAEBE23D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSimulation", "GameSimulation\GameSimulation.csproj", "{2A3B922A-621F-43EE-BEA8-20DCAAC7AE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwGames", "HwGames\HwGames.csproj", "{F6C5A523-BD35-4107-9D7E-C57EA30B4462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,14 @@ Global
 		{F2D12650-1F5D-4554-91E8-3E93BAEBE23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D12650-1F5D-4554-91E8-3E93BAEBE23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D12650-1F5D-4554-91E8-3E93BAEBE23D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3B922A-621F-43EE-BEA8-20DCAAC7AE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3B922A-621F-43EE-BEA8-20DCAAC7AE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3B922A-621F-43EE-BEA8-20DCAAC7AE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3B922A-621F-43EE-BEA8-20DCAAC7AE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C5A523-BD35-4107-9D7E-C57EA30B4462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C5A523-BD35-4107-9D7E-C57EA30B4462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C5A523-BD35-4107-9D7E-C57EA30B4462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C5A523-BD35-4107-9D7E-C57EA30B4462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

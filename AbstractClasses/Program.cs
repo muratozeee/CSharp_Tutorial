@@ -10,19 +10,35 @@
             InformationBase bInformation=new BInformation();
             InformationBase cInformation=new CInformation();
 
+           
             aInformation.Process();
             aInformation.Save();
 
         }
 
-       abstract class InformationBase
+        abstract class InformationBase
         {
+
+           
+
+            public InformationBase() {
+              
+
+        }
+
+           
+
+
+
             public abstract void Process(); //include half operations it means. it didnt finish the operation
 
-        public void Save()
+            public void Save()
             {
                 Console.WriteLine("they saved"); //include finished operations
             }
+
+
+
 
         }
 
