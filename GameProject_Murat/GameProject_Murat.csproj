@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\GameProject_Demirog\GameProject_Demirog.csproj" />
-  </ItemGroup>
-
 </Project>
